@@ -5,7 +5,7 @@ import SignUpPage from "./pages/SignUpPage"
 import ExplorePage from "./pages/ExplorePage"
 import LikesPage from "./pages/LikesPage"
 import Sidebar from "./components/Sidebar"
-
+import {Toaster} from "react-hot-toast"
 function App() {
 
 
@@ -23,7 +23,7 @@ function App() {
 
           
         </Routes>
-        <footer>Footer</footer>
+        <Toaster/>
       </div>
        
     </div>
