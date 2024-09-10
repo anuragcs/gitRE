@@ -19,7 +19,7 @@ const SignUpPage = () => {
 						Sign up with Github
 					</button>
                     <p className='text-gray-300'>
-						By signing up, you will unlock all the features of the app.
+						By signing up, you will unlock all the features of this app.
 						<span>
 							<FaUnlockAlt className='w-4 h-4 inline mx-2' />
 						</span>

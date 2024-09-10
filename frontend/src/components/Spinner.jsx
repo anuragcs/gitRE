@@ -18,7 +18,7 @@ const Spinner = () => {
 						fill='currentFill'
 					/>
 				</svg>
-				<span className='sr-only'>Loading...</span>
+				<span className='sr-only'>Wait... Loading...</span>
 			</div>
 		</div>
 	);
